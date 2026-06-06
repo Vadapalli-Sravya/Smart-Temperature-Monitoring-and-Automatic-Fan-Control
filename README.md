@@ -35,3 +35,25 @@ This project uses an Arduino UNO, DHT22 sensor, relay module, and LEDs to monito
 
 Developed an automated cooling system capable of monitoring temperature and controlling a fan without human intervention.
 
+## 📂 Project Files
+
+- sketch.ino
+- diagram.json
+
+## 👩‍💻 Author
+
+Vadapalli Srivalli Sravya
+
+B.Tech ECE Student
+
+Interested in Embedded Systems, AIoT.
+
+## 🔗 Live Simulation
+
+View the project on Wokwi:
+
+
+
+## 📷 Project Preview
+
+<img src="" width="500">
