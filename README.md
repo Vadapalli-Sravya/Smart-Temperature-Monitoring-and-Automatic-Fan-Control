@@ -34,3 +34,4 @@ This project uses an Arduino UNO, DHT22 sensor, relay module, and LEDs to monito
 ## Outcome
 
 Developed an automated cooling system capable of monitoring temperature and controlling a fan without human intervention.
+
